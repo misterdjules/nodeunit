@@ -80,7 +80,7 @@
   },
   "dependencies": {
     "ejs": "^2.5.2",
-    "tap": "^12.0.1"
+    "tap": "git+https://github.com/misterdjules/node-tap.git#use-domaine-instead-of-domain"
   },
   "scripts": {
     "test": "node ./bin/nodeunit"
